@@ -1,0 +1,7 @@
+C:\Users\monster\source\repos\CSharpEgitimKampi\03_MakingDecisions\bin\Debug\03_MakingDecisions.exe.config
+C:\Users\monster\source\repos\CSharpEgitimKampi\03_MakingDecisions\bin\Debug\03_MakingDecisions.exe
+C:\Users\monster\source\repos\CSharpEgitimKampi\03_MakingDecisions\bin\Debug\03_MakingDecisions.pdb
+C:\Users\monster\source\repos\CSharpEgitimKampi\03_MakingDecisions\obj\Debug\03_MakingDecisions.csproj.AssemblyReference.cache
+C:\Users\monster\source\repos\CSharpEgitimKampi\03_MakingDecisions\obj\Debug\03_MakingDecisions.csproj.CoreCompileInputs.cache
+C:\Users\monster\source\repos\CSharpEgitimKampi\03_MakingDecisions\obj\Debug\03_MakingDecisions.exe
+C:\Users\monster\source\repos\CSharpEgitimKampi\03_MakingDecisions\obj\Debug\03_MakingDecisions.pdb
